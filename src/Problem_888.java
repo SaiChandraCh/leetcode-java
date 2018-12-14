@@ -1,8 +1,4 @@
-//Not Accepted
-import java.lang.reflect.Array;
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.List;
 
 class Problem_888 {
     public static void main(String[] args) {
