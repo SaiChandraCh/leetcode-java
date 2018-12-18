@@ -1,3 +1,6 @@
+import java.util.ArrayList;
+import java.util.List;
+
 public class Problem_169 {
     public static void main(String[] args) {
         majorityElement(new int[]{2,2,1,1,1,2,2});
@@ -17,7 +20,6 @@ public class Problem_169 {
             }
             tempCount=0;
         }
-        System.out.println(maxNum);
         return maxNum;
     }
 }
