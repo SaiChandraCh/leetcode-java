@@ -2,17 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="836b3e00-e722-4233-bbd6-db69c473cbf6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Problem_628.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problem_976.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem_581.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem_665.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem_697.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem_830.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Problem_122.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Problem_122.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Problem_167.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Problem_167.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Problem_268.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Problem_509.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Problem_665.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Problem_697.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Problem_961.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Problem_962.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Problem_888.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem_888.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Problem_448.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Problem_448.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Problem_122.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem_122.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Problem_167.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem_167.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Problem_448.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem_448.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,22 +24,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Problem_888.java">
+        <entry file="file://$PROJECT_DIR$/src/Problem_665.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="33" column="74" selection-start-line="33" selection-start-column="74" selection-end-line="33" selection-end-column="74" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Problem_976.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="27" column="11" lean-forward="true" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
+            <state relative-caret-position="225">
+              <caret line="15" selection-start-line="11" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -65,6 +53,10 @@
       <find>buy</find>
       <find>temp</find>
       <find>&gt;</find>
+      <find>5259</find>
+      <find>1</find>
+      <find>2</find>
+      <find>3</find>
     </findStrings>
     <replaceStrings>
       <replace>nums</replace>
@@ -99,15 +91,19 @@
         <option value="$PROJECT_DIR$/src/Problem_283.java" />
         <option value="$PROJECT_DIR$/src/Problem_169.java" />
         <option value="$PROJECT_DIR$/src/Problem_169_DivideNConquer.java" />
-        <option value="$PROJECT_DIR$/src/Problem_448.java" />
-        <option value="$PROJECT_DIR$/src/Problem_122.java" />
         <option value="$PROJECT_DIR$/src/Problem_217.java" />
         <option value="$PROJECT_DIR$/src/Problem_540.java" />
         <option value="$PROJECT_DIR$/src/Problem_717.java" />
-        <option value="$PROJECT_DIR$/src/Problem_167.java" />
         <option value="$PROJECT_DIR$/src/Problem_628.java" />
         <option value="$PROJECT_DIR$/src/Problem_976.java" />
         <option value="$PROJECT_DIR$/src/Problem_888.java" />
+        <option value="$PROJECT_DIR$/src/Problem_448.java" />
+        <option value="$PROJECT_DIR$/src/Problem_167.java" />
+        <option value="$PROJECT_DIR$/src/Problem_581.java" />
+        <option value="$PROJECT_DIR$/src/Problem_830.java" />
+        <option value="$PROJECT_DIR$/src/Problem_697.java" />
+        <option value="$PROJECT_DIR$/src/Problem_122.java" />
+        <option value="$PROJECT_DIR$/src/Problem_665.java" />
       </list>
     </option>
   </component>
@@ -144,7 +140,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547818305899" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548525610177" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -161,37 +157,37 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Problem_888">
-    <configuration name="Problem_540" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem_540" />
+  <component name="RunManager" selected="Application.Problem_665">
+    <configuration name="Problem_122" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem_122" />
       <module name="Leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem_628" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem_628" />
+    <configuration name="Problem_167" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem_167" />
       <module name="Leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem_717" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem_717" />
+    <configuration name="Problem_665" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem_665" />
       <module name="Leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem_888" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem_888" />
+    <configuration name="Problem_697" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem_697" />
       <module name="Leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem_976" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem_976" />
+    <configuration name="Problem_830" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem_830" />
       <module name="Leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -199,11 +195,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Problem_888" />
-        <item itemvalue="Application.Problem_976" />
-        <item itemvalue="Application.Problem_628" />
-        <item itemvalue="Application.Problem_717" />
-        <item itemvalue="Application.Problem_540" />
+        <item itemvalue="Application.Problem_665" />
+        <item itemvalue="Application.Problem_122" />
+        <item itemvalue="Application.Problem_697" />
+        <item itemvalue="Application.Problem_830" />
+        <item itemvalue="Application.Problem_167" />
       </list>
     </recent_temporary>
   </component>
@@ -224,7 +220,7 @@
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17487548" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19922523" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -233,13 +229,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3297414" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4986165" visible="true" weight="0.32937366" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4980631" visible="true" weight="0.32937366" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39956802" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4997233" weight="0.32937366" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5013835" side_tool="true" weight="0.32937366" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5019369" side_tool="true" weight="0.32937366" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32937366" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4997233" weight="0.32937366" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -370,18 +366,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problem_169.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#70#71#0" expanded="true" />
-            <element signature="e#117#118#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Problem_169_DivideNConquer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -406,28 +390,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problem_448.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#184#185#0" expanded="true" />
-            <element signature="e#261#262#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problem_122.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Problem_217.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -449,19 +411,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problem_167.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Problem_628.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
           <folding>
             <element signature="e#279#280#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem_888.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="35" column="77" lean-forward="true" selection-start-line="35" selection-start-column="77" selection-end-line="35" selection-end-column="77" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -473,13 +438,76 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problem_888.java">
+    <entry file="file://$PROJECT_DIR$/src/Problem_169.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="33" column="74" selection-start-line="33" selection-start-column="74" selection-end-line="33" selection-end-column="74" />
+        <state relative-caret-position="240">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem_167.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem_448.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#122#123#0" expanded="true" />
+            <element signature="e#193#194#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem_830.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="75" selection-start-line="27" selection-start-column="75" selection-end-line="27" selection-end-column="75" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem_581.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem_697.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="59" lean-forward="true" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem_122.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem_665.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="11" selection-end-line="15" />
         </state>
       </provider>
     </entry>
