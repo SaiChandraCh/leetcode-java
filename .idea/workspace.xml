@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="836b3e00-e722-4233-bbd6-db69c473cbf6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Problem_581.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problem_665.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problem_697.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problem_830.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem_984.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Problem_122.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Problem_122.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Problem_167.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Problem_167.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Problem_448.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Problem_448.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Problem_122.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem_122.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Problem_167.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem_167.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Problem_448.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem_448.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Problem_628.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem_628.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,11 +15,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Problem_665.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" selection-start-line="11" selection-end-line="15" />
+            <state relative-caret-position="150">
+              <caret line="10" column="48" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Problem_628.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="75" selection-start-line="3" selection-start-column="75" selection-end-line="3" selection-end-column="75" />
+              <folding>
+                <element signature="e#279#280#0" expanded="true" />
+                <element signature="e#303#304#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Problem_984.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -94,7 +108,6 @@
         <option value="$PROJECT_DIR$/src/Problem_217.java" />
         <option value="$PROJECT_DIR$/src/Problem_540.java" />
         <option value="$PROJECT_DIR$/src/Problem_717.java" />
-        <option value="$PROJECT_DIR$/src/Problem_628.java" />
         <option value="$PROJECT_DIR$/src/Problem_976.java" />
         <option value="$PROJECT_DIR$/src/Problem_888.java" />
         <option value="$PROJECT_DIR$/src/Problem_448.java" />
@@ -104,6 +117,8 @@
         <option value="$PROJECT_DIR$/src/Problem_697.java" />
         <option value="$PROJECT_DIR$/src/Problem_122.java" />
         <option value="$PROJECT_DIR$/src/Problem_665.java" />
+        <option value="$PROJECT_DIR$/src/Problem_628.java" />
+        <option value="$PROJECT_DIR$/src/Problem_984.java" />
       </list>
     </option>
   </component>
@@ -140,7 +155,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548525610177" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548579274644" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -157,16 +172,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Problem_665">
+  <component name="RunManager" selected="Application.Problem_984">
     <configuration name="Problem_122" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Problem_122" />
-      <module name="Leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Problem_167" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem_167" />
       <module name="Leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -193,13 +201,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Problem_984" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem_984" />
+      <module name="Leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problem_984" />
         <item itemvalue="Application.Problem_665" />
         <item itemvalue="Application.Problem_122" />
         <item itemvalue="Application.Problem_697" />
         <item itemvalue="Application.Problem_830" />
-        <item itemvalue="Application.Problem_167" />
       </list>
     </recent_temporary>
   </component>
@@ -248,9 +263,47 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Problem_984.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Problem_984.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Problem_984.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="s" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>s</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/UniqueMail.java">
@@ -411,16 +464,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problem_628.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#279#280#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Problem_888.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -506,8 +549,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Problem_665.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" selection-start-line="11" selection-end-line="15" />
+        <state relative-caret-position="150">
+          <caret line="10" column="48" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem_628.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="75" selection-start-line="3" selection-start-column="75" selection-end-line="3" selection-end-column="75" />
+          <folding>
+            <element signature="e#279#280#0" expanded="true" />
+            <element signature="e#303#304#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem_984.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
         </state>
       </provider>
     </entry>
