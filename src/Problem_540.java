@@ -4,10 +4,17 @@ public class Problem_540 {
     }
 
     private static int singleNonDuplicate(int[] nums) {
-        int length = nums.length,tempLen = length;
-        for (int i = 0; i < length; i=tempLen/2) {
+        int length = nums.length-1,mid = length/2;
+        while (true){
+            mid = length/2;
+            if(nums[mid] == nums[mid+1]){
+
+            }else if(nums[mid] == nums[mid-1]){
+
+            }else if(nums[mid] != nums[mid+1] && nums[mid] == nums[mid-1]){
+
+            }
 
         }
-        return 0;
     }
 }
